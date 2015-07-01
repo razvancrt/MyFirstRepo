@@ -1,3 +1,1 @@
-this file is created by another contributor
-
-modified in the branch named primeiro-branch1
+crt am facut update din branchul crt-br1
