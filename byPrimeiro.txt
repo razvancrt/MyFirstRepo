@@ -3,4 +3,5 @@ Modificare de catre primeiro: modificat din web cu utilitatea edit din github
 Primeiro: am adaugat linia 3 din web!
 Primeiro: adaugat si linia 4, ca sa fie masterul local al lui crt cu 2 commituri in urma
 Primeiro: si chiar si linia a 5-a. N-ar trebui sa o vad de pe local cu diff fara sa fac inainte fetch. Test...
-Linia 6: oare se vede din local doar cu show, fara fetch?
+Linia 6: oare se vede din local doar cu show, fara fetch? Nu, nu s-a vazut
+Linia 7: test fetch+merge vs pull
