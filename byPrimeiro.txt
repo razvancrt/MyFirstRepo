@@ -1,2 +1,3 @@
 crt am facut update din branchul crt-br1
 Modificare de catre primeiro: modificat din web cu utilitatea edit din github
+Primeiro: am adaugat linia 3 din web!
